@@ -1,0 +1,9 @@
+# Ignore specific files and directories
+
+downloads/
+.env
+__pycache__/
+venv/
+.vscode/
+.DS_Store
+session-*

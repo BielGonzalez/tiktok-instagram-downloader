@@ -1,0 +1,8 @@
+# Dependencies
+
+TikTokApi
+instaloader
+yt-dlp
+aiohttp
+python-dotenv
+requests
